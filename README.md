@@ -1,20 +1,21 @@
-===============================================
 COMP 8505 - Assignment 1
+==============================================
 By: Jeffrey Sasaki
-===============================================
+------------------------------------------------------------------------------
 
 Description:
--------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 This assignment features a Covert Channel implementation based on Craig Rowland's
 covert_tcp program and documentation. Implementation was completed in Python.
 
 Files:
--------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 client.py - Implementation to send covert message to the server
+
 server.py - Implementation to listen for covert message
 
 Executables:
--------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 To run the program type each from separate machines...
 $ python client.py <host_ip>
 $ python server.py 
