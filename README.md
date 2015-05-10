@@ -1,5 +1,6 @@
-COMP 8505 - Assignment 1
+Covert Channel
 ==============================================
+COMP8505 - Assignment 1
 By: Jeffrey Sasaki
 
 Description:
